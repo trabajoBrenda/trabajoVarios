@@ -1,2 +1,2 @@
 # trabajoVarios
-nose
+Expulsen a Diego por favor
